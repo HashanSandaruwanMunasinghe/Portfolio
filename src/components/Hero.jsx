@@ -64,7 +64,9 @@ const Hero = () => {
               <div className="absolute inset-0 rounded-full bg-blue-600/10 animate-pulse"></div>
               <div className="absolute inset-2 rounded-full bg-blue-600/20"></div>
               <div className="absolute inset-4 rounded-full overflow-hidden border-4 border-white shadow-lg">
-                <img src="public/home.jpeg" alt="Home" />
+                <img src="https://imgur.com/a/5kmNIAm" alt="Home" />
+
+
 
               </div>
             </div>
